@@ -1,0 +1,9 @@
+.Pagination {
+    justify-content: center;
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.Pagination > *:not(:first-child) {
+    margin-left: 5px;
+}

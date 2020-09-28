@@ -1,0 +1,12 @@
+.Tabs {
+    display: inline-block;
+}
+
+.TabTitle {
+    padding: 15px 15px;
+}
+
+.TabPanel {
+    padding: 20px;
+    border: 1px solid gray;
+}
